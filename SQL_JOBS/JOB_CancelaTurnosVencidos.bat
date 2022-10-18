@@ -1,0 +1,1 @@
+SQLCMD -s .\192.168.3.102 -i "C:\SQL-Data-Curso\SQL_JOBS\JOB_CancelaTurnos.sql"

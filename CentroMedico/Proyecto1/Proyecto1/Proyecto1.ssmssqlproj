@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Proyecto1">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ANDRES:Andres">
+          <Created>2022-10-16T18:12:12.9922363-06:00</Created>
+          <Type>SQL</Type>
+          <Server>ANDRES</Server>
+          <UserName>Andres</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>CentroMedico</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="ANDRES:sa">
+          <Created>2022-10-12T09:18:43.3944591-06:00</Created>
+          <Type>SQL</Type>
+          <Server>ANDRES</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Adicionales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Adicionales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTA_Especialidad.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ALTA_Especialidad.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTA_Medico.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ALTA_Medico.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTA_Paciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ALTA_Paciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTA_Turno.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>ALTA_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="BACKUP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>BACKUP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Comandos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Comandos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CRearRollDeUsuario.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>CRearRollDeUsuario.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DEL_Turno.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DEL_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FNC_FechaTexto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FNC_FechaTexto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Funciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Funciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="INNER JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>INNER JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JOB_CancelaTurnos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>JOB_CancelaTurnos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LEFT Y RIGHT JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>LEFT Y RIGHT JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SEL_EspecialidadesMedicas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SEL_EspecialidadesMedicas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SEL_HistoriaPaciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SEL_HistoriaPaciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SEL_TurnosPaciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SEL_TurnosPaciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:Andres</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>Andres</AssociatedConnUserName>
+          <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TablasTemporales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TablasTemporales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tansacciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Tansacciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRIGGER.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>TRIGGER.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UNION y UNION ALL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UNION y UNION ALL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPD_Paciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UPD_Paciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPD_Turno.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>UPD_Turno.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VIEW_MedicoEspecialidades.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>VIEW_MedicoEspecialidades.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vistas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDRES:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ANDRES</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Vistas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
